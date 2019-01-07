@@ -9,8 +9,8 @@ If you want to take this bot as a template feel free to do so.
 ### Prerequisites
 
 Must have:
-*python 3+
-*discord
+* python 3+
+* discord
 
 ### Installing
 
